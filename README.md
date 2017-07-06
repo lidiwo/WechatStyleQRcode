@@ -2,8 +2,7 @@
 
 ## **1.样式展示** ##
 
-![](http://img.blog.csdn.net/20170706151459422?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvbGlkaXdv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
-
+![](/screenshot/Wechat_Style_QRcode.gif)
 
 ## **2.原理说明** ##
 
